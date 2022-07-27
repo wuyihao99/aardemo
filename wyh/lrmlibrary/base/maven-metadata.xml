@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>vdolrm.lrmlibrary</groupId>
+  <groupId>wyh.lrmlibrary</groupId>
   <artifactId>base</artifactId>
   <versioning>
-    <release>null</release>
+    <release>1.0</release>
     <versions>
-      <version>null</version>
+      <version>1.0</version>
     </versions>
-    <lastUpdated>20220727101329</lastUpdated>
+    <lastUpdated>20220727104101</lastUpdated>
   </versioning>
 </metadata>
